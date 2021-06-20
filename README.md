@@ -20,9 +20,9 @@ months, from May to November, in Denmark, Estonia, India, Italy, Norway,
  the United Kingdom, and the United States.
  ![TenetTeam](https://user-images.githubusercontent.com/71959277/122685032-a24d4680-d1f8-11eb-95ce-f651cf2367dd.jpg)
 
- ### *The Plot*
- After having a near-death experience, an unnamed CIA operative, known as
- the Protagonist, is selected to join the ranks of the shadowy 
+### *The Plot*
+After having a near-death experience, an unnamed CIA operative, known as
+the Protagonist, is selected to join the ranks of the shadowy 
 government organization called Tenet: a group tasked with ensuring the 
 survival of the human race. Entrusted with coming to grips with a 
 terrifying, cutting-edge technology, and an imminent attack from the 
