@@ -1,9 +1,7 @@
 # **Tenet**
-*Learn about the legendary masterpiece by Chris Nolan. Protoganized by John David Washington. Soundtracks by Ludwig Goransson.*
-
+*Learn about the legendary masterpiece by Christopher Nolan. Protoganized by John David Washington. Music: Ludwig Goransson.*
 
 Welcome to the Tenet repo.
-
 
 ![Tenet](https://user-images.githubusercontent.com/71959277/122685014-8ea1e000-d1f8-11eb-85d4-30828cb1745a.jpg)
 
@@ -13,7 +11,7 @@ Tenet is a 2020 science fiction action thriller film written and directed by Chr
 
 Nolan took more than five years to write the screenplay after deliberating about Tenet'scentral ideas for over a decade. Pre-production began in late 2018, casting took place in March 2019, and principal photography lasted six months, from May to November, in Denmark, Estonia, India, Italy, Norway,the United Kingdom, and the United States.
  
- ![TenetDiagonal](https://user-images.githubusercontent.com/71959277/122685020-9a8da200-d1f8-11eb-9868-048fdd4ba82b.jpg)
+![TenetDiagonal](https://user-images.githubusercontent.com/71959277/122685020-9a8da200-d1f8-11eb-9868-048fdd4ba82b.jpg)
 
 ### *The Plot*
 After having a near-death experience, an unnamed CIA operative, known as
@@ -47,8 +45,7 @@ using a time-reversed gun. The Protagonist throws the bag of bombs away
 and the people are saved. He is then abducted and tortured until he 
 bites on an apparent suicide pill before revealing any information.
 
-Upon
- waking, the Protagonist learns the pill was a test of his loyalty. He 
+Upon waking, the Protagonist learns the pill was a test of his loyalty. He 
 also is told that his team didn't get clear. He is recruited into a 
 secret organization, given only the information that the word "Tenet" 
 and a cross-fingered gesture will "open many doors" for him. The 
