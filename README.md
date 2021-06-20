@@ -32,6 +32,8 @@ The film's plot revolves around reversing the entropy of things and people, resu
 ### *Synopsis*
 > Warning: Major Spoilers Ahead.
 
+![vlcsnap-2021-06-21-01h18m08s919](https://user-images.githubusercontent.com/86204780/122686578-6b465780-d22f-11eb-84f3-ef28030d0b90.png)
+
 In Kiev, Ukraine, an unnamed operative, The Protagonist (John David 
 Washington), assists in a CIA assignment to foil an opera siege and 
 retrieve a stolen cache of plutonium. His mission also seems to be to 
@@ -56,6 +58,8 @@ scientist presents him with bullets that fire in reverse. The scientist
 believes that there is a war coming as objects are being streamed back 
 in time from the future.
 
+![vlcsnap-2021-06-21-01h20m22s002](https://user-images.githubusercontent.com/86204780/122686610-93ce5180-d22f-11eb-983e-0093c32e03a5.png)
+
 Tracking the metal from which the 
 reversed bullets are made, the Protagonist infiltrates the compound of 
 an Indian billionaire in Mumbai with the aid of Neil (Robert Pattinson),
@@ -64,6 +68,10 @@ billionaire's wife, Priya (Dimple Kapadia), who knows what is happening.
  Priya tells the Protagonist that the time-reversing technology is under
  the control of a Russian arms dealer, Andrei Sator (Kenneth Branagh), 
 who is in communication with the future.
+
+![vlcsnap-2021-06-21-00h18m25s860](https://user-images.githubusercontent.com/86204780/122687282-3e943f00-d233-11eb-95ce-9bbe7598acc5.png)
+
+![vlcsnap-2021-06-21-01h21m49s342](https://user-images.githubusercontent.com/86204780/122686625-b06a8980-d22f-11eb-84c3-a6c9ebc33d3f.png)
 
 The Protagonist meets 
 Sir Michael Crosby (Michael Caine) who tells him that an explosion went 
@@ -102,6 +110,10 @@ pushes Sator out of the boat. The Protagonist saves him and Kat is mad
 at him for that. Sator says he is in debt so he funds the Protagonist 
 who offers to steal weapons-grade plutonium for him.
 
+![vlcsnap-2021-06-18-14h34m49s435](https://user-images.githubusercontent.com/86204780/122687309-5e2b6780-d233-11eb-87dd-957c754565cb.png)
+
+![vlcsnap-2021-06-21-01h33m02s711](https://user-images.githubusercontent.com/86204780/122686778-ac8b3700-d230-11eb-8475-4d24251e76be.png)
+
 The 
 Protagonist and Neil plan a heist on a highway and they succeed in 
 stealing the plutonium, which is in an orange case, from an armored 
@@ -115,12 +127,18 @@ are operating a "temporal pincer movement" in which they move both
 forwards and backward in time, by means of entering a "temporal stile" 
 following the operation and then moving backward through time.
 
-At
- the "temporal junction", Sator shoots Kat and leaves with her before 
+![vlcsnap-2021-06-21-01h34m34s720](https://user-images.githubusercontent.com/86204780/122686809-dfcdc600-d230-11eb-9551-85c71d8087ac.png)
+![vlcsnap-2021-06-21-01h36m49s721](https://user-images.githubusercontent.com/86204780/122686875-2cb19c80-d231-11eb-9da9-e29a5d13b3da.png)
+
+At the "temporal junction", Sator shoots Kat and leaves with her before 
 Neil calls for reinforcements and they arrive to secure the temporal 
 stile. The Protagonist suspects them, questioning Neil about who these 
 people are. Neil tells him they are Priya's men, a team led by Ives 
-(Aaron Taylor Johnson). The Protagonist follows Sator back through the 
+(Aaron Taylor Johnson). 
+
+![vlcsnap-2021-06-21-01h38m20s857](https://user-images.githubusercontent.com/86204780/122686925-64b8df80-d231-11eb-953c-11e49e4c434a.png)
+
+The Protagonist follows Sator back through the 
 temporal stile despite being warned not to, where he turns out to be the
  driver of the Saab. He puts a radio device on an empty orange casing on
  the road and waits for it to go back into a car. He follows it and it 
@@ -131,6 +149,8 @@ hypocentre. In the chase, the Saab crashes with the inverted Protagonist
  inside it. Sator burns the car which turns into ice and manages to get 
 hold of the algorithm piece off-screen. The Protagonist is rescued by 
 Ives' team.
+
+![vlcsnap-2021-06-21-01h39m35s093](https://user-images.githubusercontent.com/86204780/122686998-bbbeb480-d231-11eb-9bea-4bc692932590.png)
 
 Sator is revealed to be dying from inoperable 
 pancreatic cancer and has turned omnicidal, believing that if he is to 
@@ -162,16 +182,19 @@ has seen too much of what they are trying to keep secret - a loose end.
 Priya gives him her word. She also reveals to him that Tenet will be 
 founded in the future. She says Ives has a team ready for the mission.
 
-They
- travel further back in time, where a military operation is launched 
-whereby the Protagonist and Neil attempt to retrieve the doomsday device
- from Sator's men from the future in Stalsk-12, while Kat is with her 
+![vlcsnap-2021-06-18-20h23m18s934](https://user-images.githubusercontent.com/86204780/122687043-f88aab80-d231-11eb-9d3b-618b1a0e1829.png)
+
+They travel further back in time, where a military operation is launched 
+whereby the Protagonist and Neil attempt to retrieve the doomsday device 
+from Sator's men from the future in Stalsk-12, while Kat is with her 
 husband on his yacht, aiming to prevent him from killing himself before 
 the doomsday device is retrieved. They operate in a temporal pincer 
 movement where the red team moves forward covering the blue team's 
 extraction and the blue team moves backward covering the red team's 
 extraction. The Protagonist and Ives are on the red team while Neil is 
 on the blue team.
+
+![vlcsnap-2021-06-21-01h45m24s039](https://user-images.githubusercontent.com/86204780/122687110-646d1400-d232-11eb-9dc3-2d554ff9707b.png)
 
 Neil uses a temporal stile there to invert back
  to forward, halfway through the operation, to warn the Protagonist and 
@@ -214,3 +237,5 @@ The Protagonist then saves Kat from
  being killed by Priya after all of the film's events, revealing that it
  is his job to tie up loose ends and that he has been the leader of 
 Tenet operations for two years in the past.
+
+![vlcsnap-2021-06-18-22h41m02s049](https://user-images.githubusercontent.com/86204780/122687133-81094c00-d232-11eb-8f45-b7fa4fe6f1d5.png)
