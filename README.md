@@ -1,7 +1,7 @@
 # **Tenet**
-*Learn about the legendary masterpiece by Christopher Nolan. Protoganized by John David Washington. Music: Ludwig Goransson.*
+*A legendary masterpiece by Christopher Nolan. Protoganized by John David Washington. Music: Ludwig Goransson.*
 
-Welcome to the Tenet repo.
+⌚ Welcome to the Tenet repository 😃.
 
 ![Tenet](https://user-images.githubusercontent.com/71959277/122685014-8ea1e000-d1f8-11eb-85d4-30828cb1745a.jpg)
 
