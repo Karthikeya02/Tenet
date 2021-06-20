@@ -7,18 +7,13 @@ Welcome to the Tenet repo.
 
 ![Tenet](https://user-images.githubusercontent.com/71959277/122685014-8ea1e000-d1f8-11eb-85d4-30828cb1745a.jpg)
 
-Tenet is a 2020 science fiction action thriller film written and directed by Christopher Nolan, who produced it with Emma Thomas.
-A co-production between the United Kingdom and United States, it stars John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Michael Caine, and Kenneth Branagh.
-The film follows a secret agent who learns to manipulate the flow of time to prevent an attack from the future that threatens to annihilate the present world.
+Tenet is a 2020 science fiction action thriller film written and directed by Christopher Nolan, who produced it with Emma Thomas. A co-production between the United Kingdom and United States, it stars John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Michael Caine, and Kenneth Branagh. The film follows a secret agent who learns to manipulate the flow of time to prevent an attack from the future that threatens to annihilate the present world.
 
-![TenetDiagonal](https://user-images.githubusercontent.com/71959277/122685020-9a8da200-d1f8-11eb-9868-048fdd4ba82b.jpg)
+![TenetTeam](https://user-images.githubusercontent.com/71959277/122685032-a24d4680-d1f8-11eb-95ce-f651cf2367dd.jpg)
 
-Nolan took more than five years to write the screenplay after deliberating about Tenet's
- central ideas for over a decade. Pre-production began in late 2018, 
-casting took place in March 2019, and principal photography lasted six 
-months, from May to November, in Denmark, Estonia, India, Italy, Norway,
- the United Kingdom, and the United States.
- ![TenetTeam](https://user-images.githubusercontent.com/71959277/122685032-a24d4680-d1f8-11eb-95ce-f651cf2367dd.jpg)
+Nolan took more than five years to write the screenplay after deliberating about Tenet'scentral ideas for over a decade. Pre-production began in late 2018, casting took place in March 2019, and principal photography lasted six months, from May to November, in Denmark, Estonia, India, Italy, Norway,the United Kingdom, and the United States.
+ 
+ ![TenetDiagonal](https://user-images.githubusercontent.com/71959277/122685020-9a8da200-d1f8-11eb-9868-048fdd4ba82b.jpg)
 
 ### *The Plot*
 After having a near-death experience, an unnamed CIA operative, known as
