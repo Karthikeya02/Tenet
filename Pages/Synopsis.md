@@ -1,5 +1,6 @@
 ## *Synopsis*
-> *Warning: Major Spoilers Ahead.*
+
+#### > *Warning: Major Spoilers Ahead.*
 
 ![RAINY NIGHT IN TALLINN](https://user-images.githubusercontent.com/86204780/122686578-6b465780-d22f-11eb-84f3-ef28030d0b90.png)
 
